@@ -1,7 +1,6 @@
 from .ups import UPSInterface
 
-__version_tuple__ = (0, 0, 1)
-__version__ = '.'.join(map(str, __version_tuple__))
+from .version import __VERSION__
 
 
 class Package(object):
