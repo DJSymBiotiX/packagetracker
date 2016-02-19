@@ -8,7 +8,11 @@ packagetracker - Track Packages
 
 This library tracks various packages (UPS, Fedex, and USPS)
 
-Based on https://github.com/storborg/packagetrack by storborg
+Based on https://github.com/storborg/packagetrack by storborg,
+but I saw some things that were a little weird, so I decided to
+roll my own version that is hevily based on his code. Don't know if I'll
+eventually try to turn it in to a merge request, or just make it a separate
+package.
 
 Installation
 ============

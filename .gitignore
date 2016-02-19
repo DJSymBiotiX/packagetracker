@@ -1,3 +1,6 @@
+# compiled python files
+*.pyc
+
 # Test coverage files
 .coverage
 cover/
@@ -9,3 +12,6 @@ dist/
 
 # Virtualenv
 env/
+
+# testfiles
+test.py
