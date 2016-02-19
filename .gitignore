@@ -1,0 +1,11 @@
+# Test coverage files
+.coverage
+cover/
+
+# Setuptools
+packagetracker.egg-info/
+build/
+dist/
+
+# Virtualenv
+env/
